@@ -22,3 +22,5 @@ const getWeather = async (location) => {
     })
   );
 };
+
+//some dummy text to push again in github
